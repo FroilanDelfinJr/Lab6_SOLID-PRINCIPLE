@@ -7,7 +7,7 @@ public class ResourceBorrower {
 
     public void borrowResource(Borrowable resource) {
         System.out.println("Borrower Name: " + student.getName());
-        System.out.println("Borrower ID: " + student.getUserId());
+        System.out.println("Borrower ID: " + student.getStudentId());
         resource.borrow();
     }
 }
