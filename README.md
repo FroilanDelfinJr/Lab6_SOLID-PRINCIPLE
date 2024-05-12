@@ -14,3 +14,4 @@ Make sure you have a TestProgram that will validate the proposed refactored code
 
 ## UML Class Diagram
 
+![Lab6_SOLID PRINCIPLE](https://github.com/FroilanDelfinJr/Lab6_SOLID-PRINCIPLE/assets/142400742/2449dcd2-fafc-47b9-a528-a1dc69e85cf1)
