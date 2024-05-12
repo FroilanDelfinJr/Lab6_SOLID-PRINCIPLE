@@ -1,17 +1,17 @@
 public class Student {
     private String name;
-    private int userId;
+    private int studentId;
 
-    public Student(String name, int userId) {
+    public Student(String name, int studentId) {
         this.name = name;
-        this.userId = userId;
+        this.studentId = studentId;
     }
 
     public String getName() {
         return name;
     }
 
-    public int getUserId() {
-        return userId;
+    public int getStudentId() {
+        return studentId;
     }
 }
