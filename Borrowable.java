@@ -1,3 +1,3 @@
 public interface Borrowable {
-    void borrow();
+    public void borrow();
 }
